@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+*.log
+.env
+.env.*
+runtime-data/
+*.db
+*.db-shm
+*.db-wal
