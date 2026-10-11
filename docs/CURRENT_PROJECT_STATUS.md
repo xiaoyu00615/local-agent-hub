@@ -1,9 +1,9 @@
 # Local Agent Hub｜项目现行状态索引
 
 > **文件建议位置：** `docs/CURRENT_PROJECT_STATUS.md`
-> **状态快照日期：** 2026-10-11（以本轮对话及用户提供的本地 Git 终端输出为依据） 
-> **文档性质：** 当前状态导航与决策索引（INFORMATIONAL），**不替代 ADR、正式基线或测试证据，不构成工程执行授权**。
-> **项目根目录：** `D:\Workspace\projects\local-agent-hub` 
+> **状态快照日期：** 2026-10-11（以本轮对话及用户提供的本地 Git 终端输出为依据）
+> **文档性质：** 当前状态导航与决策索引（INFORMATIONAL），**不替代 ADR、正式基线或测试证据，不构成工程执行授权**
+> **项目根目录：** `D:\Workspace\projects\local-agent-hub`
 > **仓库：** `xiaoyu00615/local-agent-hub`
 
 ## 1. 当前状态总览
